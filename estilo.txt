@@ -1,2 +1,6 @@
 fondo: negro
 texto: blanco
+
+
+tamaño-texto: 40px;
+animación: escalar(100%)
